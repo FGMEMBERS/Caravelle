@@ -7,6 +7,20 @@
     <description>caravelle</description>
     <author>Emmanuel BARANGER (3D/FDM)</author>
   </sim>
+  
+  <tags>
+    <tag>transport</tag>
+    <tag>1950s</tag>
+    <tag>1960s</tag>
+    <tag>1970s</tag>
+    <tag>1980s</tag>
+    <tag>1990s</tag>
+    <tag>2000s</tag>
+    <tag>retractable-gear</tag>
+    <tag>ifr</tag>
+    <tag>jet</tag>
+    <tag>twin-engine</tag>
+  </tags>
 
 </PropertyList>
 
